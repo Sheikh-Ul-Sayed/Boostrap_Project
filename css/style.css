@@ -1,3 +1,77 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+.banner-container{
+    background: #CACACA;
+}
+
+.banner-column{
+    background: #BDBDBDBD;
+}
+
+.nav-section{
+    background: #262B37;
+    top: 0;
+    position: sticky;
+    z-index: 2;
+}
+
+.about-container{
+    background: #00BDBD;
+}
+
+.education-container{
+    background: #EEE;
+}
+.text-color{
+    color: #FB8580;
+}
+
+.circle{
+    background: #FB8580;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+   
+
+}
+.project-container{
+    background: #2BB3DD;
+}
+.contact-container{
+    background: #474D5D;
+}
+.inner-form{
+    background: #5d5d5d;
+}
+.footer{
+    background: #2BB3DD;
+}
+.icon{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    background: white;
+    font-size: 30px;
+    text-align: center;
+    color: #0F92F3;
+    transition: .5s;
+    
+}
+.icon:hover{
+    background: #0F92F3;
+    color: white;
+}
+.git:hover{
+    background: #EEE;
+}
+
+.tube{
+    color: red;
+}
+.tube:hover{
+    background: #EEE;
+    color: red;
+}
